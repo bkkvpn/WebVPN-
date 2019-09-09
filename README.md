@@ -3,7 +3,7 @@
 <p>รันคำสั่งตามนี้</p>
 <div>
     <ul>
-        <li>wget https://raw.githubusercontent.com/bkkvpn/Auto-Web/master/ub14-install.sh</li>
+        <li>wget https://raw.githubusercontent.com/bkkvpn/WebVPN-/master/ub14-install.sh</li>
         <li>chmod +x ub14-install.sh</li>
         <li>./ub14-install.sh</li>
     </ul>
